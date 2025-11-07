@@ -1,0 +1,20 @@
+{
+  "name": "queuectl-json",
+  "version": "1.0.0",
+  "type": "module",
+  "bin": {
+    "queuectl": "bin/queuectl.js"
+  },
+  "scripts": {
+    "test": "node ./bin/queuectl.js selftest"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "commander": "^12.1.0",
+    "nanoid": "^5.0.7",
+    "proper-lockfile": "^4.1.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
