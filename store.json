@@ -1,0 +1,28 @@
+{
+  "jobs": [
+    {
+      "id": "VtjqCa2teDCKZ_JH5pI0p",
+      "command": "echo vamsi command",
+      "state": "completed",
+      "attempts": 0,
+      "max_retries": 3,
+      "priority": 0,
+      "run_at": 1762670898,
+      "timeout_ms": null,
+      "created_at": 1762670898,
+      "updated_at": 1762670929,
+      "last_error": null,
+      "claimed_by": "LAPTOP-269NMT93-5672",
+      "claimed_at": 1762670929,
+      "started_at": 1762670929,
+      "finished_at": 1762670929
+    }
+  ],
+  "logs": [],
+  "workers": [],
+  "config": {
+    "maxRetries": "3",
+    "backoffBase": "2",
+    "defaultTimeoutMs": "30000"
+  }
+}
