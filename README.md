@@ -24,3 +24,5 @@ npx queuectl dlq list
 - Supports: retries with exponential backoff, DLQ, priority, run_at, per-job timeout.
 - after staring workernode enter ctrl_c
 ```
+## video link 
+https://youtu.be/a2-Vxl4mm8o
